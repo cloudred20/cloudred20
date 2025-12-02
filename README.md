@@ -8,4 +8,4 @@
 - I primarily use **R** (tidyverse, DESeq2, Seurat) for statistical analysis and visualization and **Python** when my workflows demand it, building reproducible **bioinformatics pipelines** using **Unix/Linux, HPC/SLURM and Nextflow**.  
 - Currently juggling an **MS in Bioinformatics at NYU**, continuing my habit of learning new things. Long-term, I hope to merge **wet-lab intuition** with **computational wizardry** to explore—and clearly communicate—the complexity of biological systems.  
 
-**Fun fact:** When not in the lab, I lead **STEM & postdoc communities**, champion **women and international postdocs**, devour **fiction**, and bring **main-character energy** to dance and stage performances. 
+**Fun fact:** When not in the lab, I lead **STEM & postdoc communities**, champion **women and international postdocs**, read **fiction** voraciously, and bring **main-character energy** to dance and stage performances. 
