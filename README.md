@@ -8,8 +8,8 @@ I merge **wet-lab intuition** with **computational wizardry** to explore—and c
 - **Specialties:** Predictive ML for Genomics, Data Visualization, Genomic Imprinting
 
 ### I’m currently...
-- Developing scalable workflows for **non-classical food allergy** research.
-- Deepening my expertise in **Deep Learning for Genomics** at NYU.
+- Building reproducible pipelines to decode complex regulatory landscapes for **non-classical food allergy** research.
+- Currently pursuing an MS in Bioinformatics at NYU to deepening my expertise in **Deep Learning for Genomics**.
 
 **Fun fact:** When not in the lab, I lead **STEM & postdoc communities**, champion **women and international postdocs**, read **fiction** voraciously, and bring **main-character energy** to dance and stage performances. 
 
