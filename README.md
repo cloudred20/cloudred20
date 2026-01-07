@@ -1,18 +1,19 @@
-# Hi, I'm Megha 👋
+### Hi, I'm Megha 👋
 I merge **wet-lab intuition** with **computational wizardry** to explore—and clearly communicate—the complexity of biological systems. I specialize in presenting large, complex datasets into **clean, intuitive visualizations** — my version of **runner’s high**. 
 
-## Technical Arsenal
-- **Languages:** **R** (tidyverse, DESeq2, Seurat) and lean on **Python** when my workflows demand it, building reproducible **pipelines** using **Unix, HPC/SLURM and Nextflow**.
+### Technical Arsenal
+- **Languages:** **R** (tidyverse, DESeq2, Seurat), lean on **Python** when my workflows demand it, **Unix, HPC/SLURM and Nextflow**.
 - **Omics Expertise:** Single-cell RNA-seq, ATAC-seq, Multi-omics Integration, TCGA/ENCODE Mining
 - **Infrastructure:** Nextflow, HPC (SLURM), Git/GitHub
 - **Specialties:** Predictive ML for Genomics, Data Visualization, Genomic Imprinting
 
-## I’m currently...
+### I’m currently...
 - Developing scalable workflows for **non-classical food allergy** research.
 - Deepening my expertise in **Deep Learning for Genomics** at NYU.
 
 **Fun fact:** When not in the lab, I lead **STEM & postdoc communities**, champion **women and international postdocs**, read **fiction** voraciously, and bring **main-character energy** to dance and stage performances. 
 
-## Let's Connect
-[[LinkedIn](https://www.linkedin.com/in/cloudred20/)] | [[Google Scholar](https://scholar.google.com/citations?user=Eo6tQMYAAAAJ&hl=en)]
+### Let's Connect
+[[LinkedIn](https://www.linkedin.com/in/cloudred20/)] 
+[[Google Scholar](https://scholar.google.com/citations?user=Eo6tQMYAAAAJ&hl=en)]
   
