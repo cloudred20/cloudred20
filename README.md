@@ -5,8 +5,7 @@ I merge **wet-lab intuition** with **computational wizardry** to explore—and c
 - **Languages:** **R** (tidyverse, DESeq2, Seurat), lean on **Python** when my workflows demand it, **Unix, HPC/SLURM and Nextflow**.
 - **Omics Expertise:** Single-cell RNA-seq, ATAC-seq, Multi-omics Integration, TCGA/ENCODE Mining
 - **Infrastructure:** Nextflow, HPC (SLURM), Git/GitHub
-- **Specialties:** Predictive ML for Genomics, Data Visualization, Genomic Imprinting
-
+- **Specialties:** Predictive ML for Genomics, Data Visualization
 ### I’m currently...
 - Building reproducible pipelines to decode complex regulatory landscapes for **non-classical food allergy** research.
 - Currently pursuing an MS in Bioinformatics at NYU to deepening my expertise in **Deep Learning for Genomics**.
